@@ -68,31 +68,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-  - subtitle: ''
-    text: |+
-
-
-    actions:
-      - label: ACEITAR
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-        altText: ''
-        showIcon: false
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-    type: GenericSection
   - type: GenericSection
     title:
       text: 'CONVITE ESPECIAL PARA MADRINHA       '
