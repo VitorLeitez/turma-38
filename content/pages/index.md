@@ -102,14 +102,6 @@ sections:
           - pb-96
           - pr-96
   - type: GenericSection
-    title:
-      text: 'CONVITE ESPECIAL PARA MADRINHA       '
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 500
-      type: TitleBlock
     subtitle: ''
     text: "### Com imensa alegria, convidamos você para compartilhar conosco o início deste lindo capítulo de nossas vidas.\n\n##### **Junte-se a nós\_para\_celebrar.**\n\nBy Maria Eduarda Gomes Vieira\n\n"
     actions:
