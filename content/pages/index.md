@@ -262,7 +262,7 @@ sections:
     media:
       title: Title of the video
       url: ''
-      autoplay: true
+      autoplay: false
       loop: true
       muted: false
       controls: false
