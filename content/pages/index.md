@@ -151,6 +151,7 @@ sections:
       self:
         alignItems: flex-start
         justifyContent: center
+        flexDirection: row
     type: GenericSection
   - type: GenericSection
     title:
