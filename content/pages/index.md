@@ -125,16 +125,7 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowUp
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - subtitle: ''
     text: |+
 
