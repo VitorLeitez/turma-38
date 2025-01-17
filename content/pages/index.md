@@ -140,7 +140,7 @@ sections:
         elementId: ''
   - type: GenericSection
     title:
-      text: CONVITE ESPECIAL PARA MADRINHA DA CERIMÔNIA
+      text: CONVITE ESPECIAL PARA MADRINHA
       color: text-dark
       styles:
         self:
