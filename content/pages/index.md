@@ -143,7 +143,7 @@ sections:
       - label: ACEITAR
         url: /
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: primary
         type: Button
         altText: ''
