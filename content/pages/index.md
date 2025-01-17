@@ -146,7 +146,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
-        altText: kakaa
+        altText: ''
     colors: bg-light-fg-dark
     styles:
       self:
