@@ -154,6 +154,11 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        padding:
+          - pt-32
+          - pl-32
+          - pb-32
+          - pr-32
     type: GenericSection
   - type: GenericSection
     title:
