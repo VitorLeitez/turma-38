@@ -149,7 +149,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: flex-end
+        alignItems: flex-start
         justifyContent: center
         flexDirection: row
     type: GenericSection
