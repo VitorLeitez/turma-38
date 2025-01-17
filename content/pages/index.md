@@ -108,10 +108,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
+          - pt-36
+          - pl-36
+          - pb-36
+          - pr-36
   - type: GenericSection
     subtitle: ''
     text: ''
