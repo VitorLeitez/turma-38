@@ -170,10 +170,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-    badge:
-      type: Badge
-      label: This is a bad
-      color: text-primary
   - title:
       text: Social Media Management
       color: text-dark
