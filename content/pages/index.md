@@ -129,7 +129,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: CONVITE
+      text: convite especial para madrinha da cerimônia
       color: text-dark
       styles:
         self:
