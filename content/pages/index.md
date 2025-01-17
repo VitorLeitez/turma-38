@@ -261,7 +261,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: ''
+      url: 'https://www.youtube.com/watch?v=-f86BuCtcuY&pp=ygUFU0FJS08%3D'
       autoplay: false
       loop: true
       muted: false
