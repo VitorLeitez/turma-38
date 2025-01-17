@@ -136,11 +136,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Com imensa alegria, convidamos você para compartilhar conosco o início deste lindo capítulo de nossas vidas.\nJunte-se a nós\_para\_celebrar.\n"
     actions:
       - type: Button
         label: ACEITAR
