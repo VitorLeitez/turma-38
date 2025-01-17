@@ -196,7 +196,7 @@ sections:
           - mb-0
           - mr-0
       subtitle:
-        textAlign: left
+        textAlign: justify
   - title:
       text: Social Media Management
       color: text-dark
