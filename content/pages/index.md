@@ -144,7 +144,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: right
+          textAlign: center
           fontWeight: 500
       type: TitleBlock
     subtitle: ''
