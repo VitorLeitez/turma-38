@@ -172,7 +172,7 @@ sections:
     styles:
       self:
         flexDirection: row
-        justifyContent: center
+        justifyContent: flex-start
         padding:
           - pt-0
           - pl-0
