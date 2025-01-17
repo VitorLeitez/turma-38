@@ -64,7 +64,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: chevronDown
+        icon: arrowUp
         iconPosition: right
         style: primary
         elementId: ''
