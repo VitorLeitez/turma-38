@@ -136,7 +136,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: By Maria Eduarda Gomes Vieira
-    text: "Com imensa alegria, convidamos você para compartilhar conosco o início deste lindo capítulo de nossas vidas.\nJunte-se a nós\_para\_celebrar.\n"
+    text: "### Com imensa alegria, convidamos você para compartilhar conosco o início deste lindo capítulo de nossas vidas.\nJunte-se a nós\_para\_celebrar.\n\n"
     actions:
       - type: Button
         label: ACEITAR
