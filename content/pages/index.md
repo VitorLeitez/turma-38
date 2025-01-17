@@ -37,7 +37,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: large
+          borderRadius: medium
       type: VideoBlock
       autoplay: false
       loop: false
