@@ -174,7 +174,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pt-2
+          - pt-5
       subtitle:
         textAlign: left
   - title:
