@@ -167,10 +167,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
+            - pt-5
+            - pb-5
+            - pl-5
+            - pr-5
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
