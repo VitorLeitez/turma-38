@@ -147,7 +147,7 @@ sections:
         style: primary
         type: Button
         altText: ''
-        showIcon: true
+        showIcon: false
     colors: bg-light-fg-dark
     styles:
       self:
