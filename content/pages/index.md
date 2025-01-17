@@ -157,10 +157,6 @@ sections:
         iconPosition: right
         style: primary
         type: Link
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
