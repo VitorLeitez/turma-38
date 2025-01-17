@@ -107,7 +107,7 @@ sections:
         elementId: ''
     media:
       title: Title of the video
-      url: 'https://www.youtube.com/watch?v=-f86BuCtcuY&pp=ygUFU0FJS08%3D'
+      url: 'file:///C:/Users/Vitor_2/AppData/Local/CapCut/Videos/0117/0117.mp4'
       autoplay: false
       loop: true
       muted: false
