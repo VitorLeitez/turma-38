@@ -135,7 +135,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: ''
+    subtitle: NN
     text: "Com imensa alegria, convidamos você para compartilhar conosco o início deste lindo capítulo de nossas vidas.\nJunte-se a nós\_para\_celebrar.\n"
     actions:
       - type: Button
