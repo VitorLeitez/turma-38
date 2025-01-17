@@ -133,7 +133,7 @@ sections:
         showIcon: false
         icon: arrowDown
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
   - type: GenericSection
     title:
