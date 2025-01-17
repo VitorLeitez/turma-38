@@ -140,7 +140,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: ACEITAR
         url: /
         icon: arrowRight
         iconPosition: right
