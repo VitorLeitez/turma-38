@@ -132,7 +132,7 @@ sections:
         url: /
         showIcon: false
         icon: arrowDown
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
   - type: GenericSection
