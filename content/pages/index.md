@@ -130,7 +130,7 @@ sections:
         label: Get started
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowDown
         iconPosition: right
         style: primary
