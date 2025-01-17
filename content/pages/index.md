@@ -85,6 +85,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 500
       type: TitleBlock
     subtitle: ''
     text: |-
