@@ -201,7 +201,7 @@ sections:
         textDecoration: line-through
         fontWeight: 700
       text:
-        textAlign: justify
+        textAlign: center
   - title:
       text: Social Media Management
       color: text-dark
