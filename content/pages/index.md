@@ -155,10 +155,10 @@ sections:
         justifyContent: center
         flexDirection: row
         padding:
-          - pt-32
-          - pl-32
-          - pb-32
-          - pr-32
+          - pt-1
+          - pl-1
+          - pb-1
+          - pr-1
     type: GenericSection
   - type: GenericSection
     title:
