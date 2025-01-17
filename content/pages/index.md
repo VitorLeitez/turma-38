@@ -24,8 +24,7 @@ sections:
     text: "### Com imensa alegria, convidamos você para compartilhar conosco o início deste lindo capítulo de nossas vidas.\n\n##### **Junte-se a nós\_para\_celebrar.**\n\nBy Maria Eduarda Gomes Vieira\n\n\n\n"
     media:
       title: Title of the video
-      url: >-
-        https://drive.google.com/file/d/1Q0R3HXCAEQP6FWJe_8kfnymjYXlTrLTu/view?usp=drive_link
+      url: 'https://youtu.be/u9aPTD2y_sA'
       controls: false
       aspectRatio: '16:9'
       styles:
