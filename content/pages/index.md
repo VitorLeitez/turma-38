@@ -179,6 +179,11 @@ sections:
           - pb-0
           - pr-0
         alignItems: center
+        margin:
+          - mt-5
+          - ml-5
+          - mb-5
+          - mr-5
       subtitle:
         textAlign: left
   - title:
