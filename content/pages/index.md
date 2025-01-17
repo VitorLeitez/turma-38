@@ -135,7 +135,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-  - subtitle: Increase your reach
+  - subtitle: ''
     text: |+
 
 
