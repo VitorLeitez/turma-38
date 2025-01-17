@@ -178,7 +178,7 @@ sections:
           - pl-0
           - pb-0
           - pr-0
-        alignItems: center
+        alignItems: flex-end
       subtitle:
         textAlign: left
   - title:
