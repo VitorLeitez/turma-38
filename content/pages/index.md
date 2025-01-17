@@ -7,10 +7,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
+          - pt-36
+          - pl-36
+          - pb-36
+          - pr-36
     type: DividerSection
   - title:
       text: CONVITE ESPECIAL PARA MADRINHA DA CERIMÔNIA
