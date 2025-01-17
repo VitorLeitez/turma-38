@@ -88,11 +88,7 @@ sections:
           fontWeight: 500
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "### Com imensa alegria, convidamos você para compartilhar conosco o início deste lindo capítulo de nossas vidas.\n\n##### **Junte-se a nós\_para\_celebrar.**\n\nBy Maria Eduarda Gomes Vieira\n\n\n\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
