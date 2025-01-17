@@ -118,7 +118,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'file:///C:/Users/Vitor_2/AppData/Local/CapCut/Videos/0117/0117.mp4'
+      url: 'https://youtu.be/-4c5iVxBx5E'
       autoplay: false
       loop: true
       muted: false
