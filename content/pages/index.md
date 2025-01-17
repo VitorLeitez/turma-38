@@ -62,7 +62,7 @@ sections:
       - type: Button
         label: ACEITAR
         altText: ''
-        url: /
+        url: '#'
         showIcon: false
         icon: arrowDown
         iconPosition: right
