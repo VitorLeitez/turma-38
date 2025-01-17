@@ -173,7 +173,7 @@ sections:
             - pr-0
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 2
+          borderWidth: 1
           borderRadius: large
       type: VideoBlock
     elementId: null
