@@ -97,10 +97,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
+          - pt-96
+          - pl-96
+          - pb-96
+          - pr-96
   - type: GenericSection
     title:
       text: 'CONVITE ESPECIAL PARA MADRINHA       '
