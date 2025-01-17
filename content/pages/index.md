@@ -172,7 +172,7 @@ sections:
             - pl-0
             - pr-0
           borderColor: border-dark
-          borderStyle: dashed
+          borderStyle: solid
           borderWidth: 1
           borderRadius: large
       type: VideoBlock
