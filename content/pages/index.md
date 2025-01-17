@@ -174,7 +174,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: xx-large
+          borderRadius: large
       type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
