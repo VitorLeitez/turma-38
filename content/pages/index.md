@@ -131,7 +131,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: arrowDown
+        icon: ''
         iconPosition: right
         style: primary
         elementId: ''
