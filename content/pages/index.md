@@ -197,6 +197,7 @@ sections:
           - mr-0
       subtitle:
         textAlign: justify
+        textDecoration: line-through
   - title:
       text: Social Media Management
       color: text-dark
