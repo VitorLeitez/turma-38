@@ -146,7 +146,7 @@ sections:
         self:
           textAlign: justify
       type: TitleBlock
-    subtitle: By Maria Eduarda Gomes Vieira
+    subtitle: ''
     text: "### Com imensa alegria, convidamos você para compartilhar conosco o início deste lindo capítulo de nossas vidas.\n\n##### **Junte-se a nós\_para\_celebrar.**\n\nBy Maria Eduarda Gomes Vieira\n\n"
     actions:
       - type: Button
