@@ -60,7 +60,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: ACEITAR
         altText: ''
         url: /
         showIcon: false
