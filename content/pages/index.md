@@ -62,7 +62,7 @@ sections:
       - type: Button
         label: ACEITAR
         altText: ''
-        url: '#'
+        url: 'https://youtu.be/-4c5iVxBx5E'
         showIcon: false
         icon: arrowDown
         iconPosition: right
