@@ -104,16 +104,7 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: ''
-    actions:
-      - type: Button
-        label: ACEITAR
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       title: Title of the video
       url: 'file:///C:/Users/Vitor_2/AppData/Local/CapCut/Videos/0117/0117.mp4'
